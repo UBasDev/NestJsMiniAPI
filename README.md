@@ -24,7 +24,7 @@
 
 ## Description
 
-<b>Mini API for auth. There are Signin, Signup, Signout and RefreshToken endpoints. Accesstoken and RefreshToken are built with JWT. PassportJs has been used for powering JWT. Also they are powered by my custom strategies, custom decorators and custom guards. Argon2 has been used to hash the data for database. And Prisma has been used for mapping the entities.</b>
+<b>Mini API for auth and built by UCB :) There are Signin, Signup, Signout and RefreshToken endpoints. Accesstoken and RefreshToken are built with JWT. PassportJs has been used for powering JWT. Also they are powered by my custom strategies, custom decorators and custom guards. Argon2 has been used to hash the data for database. And Prisma has been used for mapping the entities.</b>
 
 ## Installation
 
